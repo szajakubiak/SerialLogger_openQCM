@@ -10,4 +10,4 @@ Informations about the openQCM can be found [here](https://openqcm.com/openqcm).
 
 Besides Python 3 pyserial library needs to be installed:
 
-  pip install pyserial
+    pip install pyserial
